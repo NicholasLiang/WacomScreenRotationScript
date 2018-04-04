@@ -11,9 +11,10 @@ A Linux Shell Script to rotation the touch screen for Fujitsu P727
 Fork or download the scripts into linux file system. 
 
 Use chmod to gain access from Linux
-'''
+
+```
 chmod +x <linux script file>
-'''
+```
   
 Run the script in Terminal
 
